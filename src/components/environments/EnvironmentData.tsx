@@ -5,7 +5,7 @@ export const environments: Environment[] = [
     id: 'taj-mahal',
     name: 'Taj Mahal',
     description: 'Explore the iconic ivory-white marble mausoleum on the south bank of the Yamuna river in Agra, India.',
-    imageUrl: 'lovable-uploads/16f32bb4-6fa6-4f5e-9c5b-475831502d33.png',
+    imageUrl: 'https://images.pexels.com/photos/3613236/pexels-photo-3613236.jpeg?auto=compress&cs=tinysrgb&w=1600',
     panoramaUrl: 'https://images.pexels.com/photos/3613236/pexels-photo-3613236.jpeg?auto=compress&cs=tinysrgb&w=1600',
     category: 'historical',
     infoPoints: [
