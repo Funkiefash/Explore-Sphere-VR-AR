@@ -33,7 +33,7 @@ export const environments: Environment[] = [
     id: 'chemistry-lab',
     name: 'Chemistry Laboratory',
     description: 'Discover a state-of-the-art chemistry lab with interactive experiments and chemical demonstrations.',
-    imageUrl: 'lovable-uploads/2491b14b-bb53-4970-8e4f-4b1d53a182dd.png',
+    imageUrl: 'https://images.pexels.com/photos/954585/pexels-photo-954585.jpeg?auto=compress&cs=tinysrgb&w=1600',
     panoramaUrl: 'https://images.pexels.com/photos/954585/pexels-photo-954585.jpeg?auto=compress&cs=tinysrgb&w=1600',
     category: 'scientific',
     infoPoints: [
@@ -61,7 +61,7 @@ export const environments: Environment[] = [
     id: 'colosseum',
     name: 'Roman Colosseum',
     description: 'Step back in time and explore the ancient Roman Colosseum, one of the most iconic structures from antiquity.',
-    imageUrl: 'lovable-uploads/27de464a-0945-4b24-b5fb-098f7a60a365.png',
+    imageUrl: ' https://images.pexels.com/photos/3105004/pexels-photo-3105004.jpeg?auto=compress&cs=tinysrgb&w=1600 ',
     panoramaUrl: 'https://images.pexels.com/photos/3105004/pexels-photo-3105004.jpeg?auto=compress&cs=tinysrgb&w=1600',
     category: 'historical',
     infoPoints: [
@@ -89,7 +89,7 @@ export const environments: Environment[] = [
     id: 'physics-wave',
     name: 'Wave Motion Laboratory',
     description: 'Explore wave phenomena through interactive experiments and visualizations in this virtual physics lab.',
-    imageUrl: 'lovable-uploads/db0a2dae-7a40-4833-91a9-a58533fbb942.png',
+    imageUrl: ' https://images.pexels.com/photos/3861958/pexels-photo-3861958.jpeg?auto=compress&cs=tinysrgb&w=1600 ',
     panoramaUrl: 'https://images.pexels.com/photos/3861958/pexels-photo-3861958.jpeg?auto=compress&cs=tinysrgb&w=1600',
     category: 'scientific',
     infoPoints: [
@@ -117,7 +117,7 @@ export const environments: Environment[] = [
     id: 'parthenon',
     name: 'The Parthenon',
     description: 'Visit the iconic symbol of Ancient Greece and classical architecture on the Athenian Acropolis.',
-    imageUrl: 'lovable-uploads/56126c0e-a3f6-4574-96aa-5f6e88ed7b43.png',
+    imageUrl: ' https://images.pexels.com/photos/164336/pexels-photo-164336.jpeg?auto=compress&cs=tinysrgb&w=1600 ',
     panoramaUrl: 'https://images.pexels.com/photos/164336/pexels-photo-164336.jpeg?auto=compress&cs=tinysrgb&w=1600',
     category: 'historical',
     infoPoints: [
@@ -145,7 +145,7 @@ export const environments: Environment[] = [
     id: 'quantum-lab',
     name: 'Quantum Physics Lab',
     description: 'Discover the fascinating world of quantum mechanics through interactive demonstrations and experiments.',
-    imageUrl: 'lovable-uploads/8fa16b63-a086-4000-924d-5ca801a7033c.png',
+    imageUrl: ' https://images.pexels.com/photos/2280571/pexels-photo-2280571.jpeg?auto=compress&cs=tinysrgb&w=1600 ',
     panoramaUrl: 'https://images.pexels.com/photos/2280571/pexels-photo-2280571.jpeg?auto=compress&cs=tinysrgb&w=1600',
     category: 'scientific',
     infoPoints: [
@@ -173,7 +173,7 @@ export const environments: Environment[] = [
     id: 'petra',
     name: 'Ancient City of Petra',
     description: 'Explore the rose-red city of Petra, an archaeological wonder carved into rock faces in southern Jordan.',
-    imageUrl: 'lovable-uploads/9b771bde-0de1-4151-b602-ce84e9ffd2d7.png',
+    imageUrl: ' https://images.pexels.com/photos/1631665/pexels-photo-1631665.jpeg?auto=compress&cs=tinysrgb&w=1600 ',
     panoramaUrl: 'https://images.pexels.com/photos/1631665/pexels-photo-1631665.jpeg?auto=compress&cs=tinysrgb&w=1600',
     category: 'historical',
     infoPoints: [
