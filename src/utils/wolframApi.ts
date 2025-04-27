@@ -1,11 +1,11 @@
 
 import { WolframResult } from '../types';
 
-const WOLFRAM_APP_ID = 'Q78P2Y-GVPK84AKXH';
+const WOLFRAM_APP_ID = 'Q78P2Y-J5PJJ6QR5U';
 
 export async function queryWolfram(query: string): Promise<WolframResult> {
   try {
-    const response = await fetch(`https://api.wolframalpha.com/v1/simple?appid=${WOLFRAM_APP_ID}&input=${encodeURIComponent(query)}&format=plaintext&output=JSON`);
+    const response = await fetch(`https://api.wolframalpha.com/v2/query?appid=${WOLFRAM_APP_ID}&input=${encodeURIComponent(query)}&format=plaintext&output=JSON`);
     
     if (!response.ok) {
       throw new Error('Network response was not ok');
