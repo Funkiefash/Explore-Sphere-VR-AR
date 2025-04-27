@@ -1,7 +1,7 @@
 
 import { WolframResult } from '../types';
 
-const WOLFRAM_APP_ID = 'Q78P2Y-GVPK84AKXH';
+const WOLFRAM_APP_ID = '  http://api.wolframalpha.com/v1/simple?appid =Q78P2Y-GVPK84AKXH';
 
 export async function queryWolfram(query: string): Promise<WolframResult> {
   try {
